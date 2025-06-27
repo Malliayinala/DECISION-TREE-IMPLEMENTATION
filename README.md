@@ -55,4 +55,4 @@ Can be deployed via Flask, Streamlit, or integrated into web applications
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/462d56ba-79b6-4cd8-99a4-f5c60dc4aa89)
+![Image](https://github.com/user-attachments/assets/96edbbd1-b346-43d6-811e-ab637e178bf7)
